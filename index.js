@@ -23,3 +23,4 @@ let  wrapAdjective = function(result= "*"){
     }
     
 }
+wrapAdjective("%")("a dedicated programmer");  
